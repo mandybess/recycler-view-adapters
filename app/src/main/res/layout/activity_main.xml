@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:gravity="center"
+  android:orientation="vertical">
+
+  <Button
+    android:id="@+id/header_button"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="HeaderAdapter Sample" />
+
+  <Button
+    android:id="@+id/multitype_button"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="MultiTypeAdpater Sample" />
+
+  <Button
+    android:id="@+id/section_button"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="SectionAdapter Sample" />
+
+
+</LinearLayout>
